@@ -1,0 +1,5 @@
+USE [InvoiceDemo]
+GO
+
+INSERT INTO [Invoice] (Approval, Leasing, ProcessingFee)
+VALUES (83892929, 43892929, 3950), (63892929, 33892929, 3950), (73892929, 23892929, 3950);
